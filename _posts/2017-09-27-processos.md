@@ -356,15 +356,15 @@ Aqui temos o **poder geral de antecipação**! Eu posso pedir **qualquer antecip
 * Pessoas jurídicas de direito público - 
 * Cadastros de email - preferencialmente na forma eletrônica para agilizar o processo.
 * **Citação por correio** - continua sendo a regra
-   * não será se for pessoa jurídica de direito público interno (pois é por email)
-   * será por **mandado** ou oficial de justiça, se:
-      * não houver correio
-      * incapaz (para proteger sua figura)
-   * ações de estado (divórcio, separação)
-   * será sempre por **AR** quando o autor requerer (quando acha que vai demorar) e depende da prova de que é necessária a citação por mandado.
+	* não será se for pessoa jurídica de direito público interno (pois é por email)
+	* será por **mandado** ou oficial de justiça, se:
+		* não houver correio
+		* incapaz (para proteger sua figura)
+		* ações de estado (divórcio, separação)
+	* será sempre por **AR** quando o autor requerer (quando acha que vai demorar) e depende da prova de que é necessária a citação por mandado.
 * **Citação real** - citação que de fato aconteceu
 * **Citação ficta** - formalidade, ficção jurídica. Ex. **por edital ou hora certa**. O direito precisa delas para que funcione o processo. Mas deve ser usada em poucas situações.
- * Se o réu tenta se ocultar, tentativa de citação por 2x e suspeita de ocultação a citação é feita por hora certa.
+	* Se o réu tenta se ocultar, tentativa de citação por 2x e suspeita de ocultação a citação é feita por hora certa.
 * Em processo de alimentos, o autor pode indicar a modalidade de citação mais indicada.
 
 ## Efeitos da citação
@@ -379,8 +379,8 @@ Outros efeitos:
 * induz a litispendência - efeito processual, pois não pode ajuiar uma segunda.
 * reduz a possibildiade de desistência da ação (desistência unilateral) e de aditamento da inicia.
 * tornar litigiosa a coisa - efeito processual. Os bens da ação se tornam litigiosos (**redução prática da alienabilidade**)
- * há presunção de fraudes à eecução e de fraudes contra credores.
- * o réu não pode alegar boa-fé na venda
+	* há presunção de fraudes à eecução e de fraudes contra credores.
+	* o réu não pode alegar boa-fé na venda
 
 **constituir em mora** - cumprimento imperfeito de uma obrigação (diferente de inadimplemento). Ex. pagamento atrasado.
 
