@@ -329,7 +329,7 @@ Aqui temos o **poder geral de antecipação**! Eu posso pedir **qualquer antecip
 
 
 # Citação
- A citação é um ato formal de comunicação judicial. A intimação é menos formal.
+ A citação é um ato formal de comunicação processual judicial. A intimação é menos formal.
 
 > É a comunicação ao réu de que existe uma ação ajuizada contra ele.
 
@@ -339,6 +339,8 @@ Aqui temos o **poder geral de antecipação**! Eu posso pedir **qualquer antecip
 
 **Art. 238** - A citação é um **requisito de validade** da relação processual. Sua não existência leva ao indeferimento da inicial e improcedência liminar do pedido.
 
+A citação é a rainha das intimações. É a mais importante das intimações. Por isso tem tratamento especial. A citação do réu não é para apresentar um documento, mas para informar que existe um processo contra ele. É com a citação que passa a existir o processo completo. A ação processual não é privada, mas é pública. A relação processual é triangular 
+
 **Indeferimento da inicial** (inépcia, por exemplo) - a petição é indigna de apreciação do judiciário, mas **pode ser ajuizada novamente** no dia seguinte.
 
 **Improcedência** - julgamento do mérito liminar do pedido e **não pode ajuizar a mesma ação (coisa julgada)**.
@@ -347,7 +349,66 @@ Aqui temos o **poder geral de antecipação**! Eu posso pedir **qualquer antecip
 
 > A citação é o momento em que se consegue realmente atrasar o processo, pois há várias formas de se frustrar a citação para se ganhar tempo (justiça devagar mais legislação protetiva dos devedores). Outro gargalo é a sentença.
 
+## Possibilidades de sujeitos a serem citados
+
+1. Citar réu - no processo de conhecimento (há crise de certeza)
+2. Citar o executado - no processo de execução (no caso de títulos extrajudiciais, por exemplo, são casos em que se dispensa o processo de conhecimento) - 
+3. Citar o sentenciado - cumprimento de sentença (há crise de satisfação)
+Obs. Tem também o processo cautelar
+4. Citar o interessado - aquele a quem vai ser chamado ao processo; denunciação da lide;
+
+> Citação é ato de primeiríssima grandeza da fase postulatória para integrar ao processo o último de sujeitos possibilitando o contraditório. A ausência de citação gera nulidade. Não gera coisa julgada.
+
 > REGRA da citação: deve ser direta, na pessoa do réu.
+
+
+**A citação é requisito de validade do processo.**
+
+Tem alguns casos em que ocorre a relação processual sem citação. Ex. indeferimento da inicial por ser inepta (o juiz não conheceu do seu processo. Você pode propor a mesma ação de novo. Ele não tratou do mérito). 
+
+Exceção: A improcedência liminar do pedido, art. 332 CPC (houve julgamento de mérito. Faz-se coisa julgada).
+
+Um processo sem citação é nulo, mas ele existiu. Para se insubordinar contra sentença nula tem dois anos para ação rescisória.
+
+Se o juiz vendeu a sentença, o processo é inexistente, porque não houve juiz. Ou juiz absolutamente incompetente. 
+
+Contraditório é ser informado e poder responder!
+O suprimento da citação pelo comparecimento espontâneo do réu
+Embora não tenha sido citado, o réu compareceu, art. 239, §1º. De acordo com o princípio da instrumentalidade das formas o processo pode continuar normalmente. Os atos praticados serão considerados válidos.
+Antes da citação, o sujeito não é réu. 
+A partir da citação, começa a correr o prazo da contestação. Cuidado com a preclusão. 
+
+## Destinatários da citação
+
+A regra é a pessoalidade da citação,
+Art. 242. “A citação será pessoal, podendo, no entanto, ser feita na pessoa do representante legal ou do procurador do réu, do executado ou do interessado”.
+
+> Em regra, o réu deve ser citado pessoalmente. 
+
+E quando é pessoa jurídica? Na figura dos seus administradores, prepostos. Os porteiros podem receber as citações.
+
+**Exceções**: **Citação do incapaz** (não é o interditado) - se o oficial percebe que a pessoa é incapaz, o oficial informa isso na contrafé; o juiz manda fazer perícia, e manda nomear um curador. 
+
+## Ocasiões em que não se faz a situação
+> art. 244. “Não se fará a citação, salvo para evitar o perecimento do direito:”
+
+1. não se cita uma pessoa em culto religioso
+2. o cônjuge e o parente do morto até segundo grau nos sete dias de falecimento (período de nojo)
+3. nos três dias seguintes ao casamento - (período de gala)
+4. doente, enquanto grave o seu estado
+
+**Exceção**: se o direito do autor estiver a ponto de prescrever.
+
+## Modalidades de citação
+
+* Pelo correio (via postal)
+* Através do oficial de justiça (via mandado) - casos das ações de Estado; contra incapaz; pessoas jurídicas de direito público interno (se deixam citar na pessoa de suas respectivas advocacias).
+* Por edital - quando não dá para fazer por correio; 
+* Por meio eletrônico;
+
+> **Em regra, a citação é por correio (via postal)**. 
+
+> É obrigação do autor dar o endereço correto do réu, ou então dizer que não sabe onde é.
 
 * Se PJ deve citar o preposto ou representante leagal da empresa. 
 * Se o proteiro assina, dá a PJ por citada
@@ -355,13 +416,13 @@ Aqui temos o **poder geral de antecipação**! Eu posso pedir **qualquer antecip
 * **incapaz** - citado não diretamente, ams sim na pessoa do curador (Estatuto da pessoa com deficiência)
 * Pessoas jurídicas de direito público - 
 * Cadastros de email - preferencialmente na forma eletrônica para agilizar o processo.
-* **Citação por correio** - continua sendo a regra
+* **REGRA: Citação por correio** - continua sendo a regra
 	* não será se for pessoa jurídica de direito público interno (pois é por email)
 	* será por **mandado** ou oficial de justiça, se:
 		* não houver correio
 		* incapaz (para proteger sua figura)
 		* ações de estado (divórcio, separação)
-	* será sempre por **AR** quando o autor requerer (quando acha que vai demorar) e depende da prova de que é necessária a citação por mandado.
+	* poderá ser por outra forma quando o autor requerer justificadamente (quando acha que vai demorar) e depende da prova de que é necessária a citação por mandado.
 * **Citação real** - citação que de fato aconteceu
 * **Citação ficta** - formalidade, ficção jurídica. Ex. **por edital ou hora certa**. O direito precisa delas para que funcione o processo. Mas deve ser usada em poucas situações.
 	* Se o réu tenta se ocultar, tentativa de citação por 2x e suspeita de ocultação a citação é feita por hora certa.
@@ -385,3 +446,217 @@ Outros efeitos:
 **constituir em mora** - cumprimento imperfeito de uma obrigação (diferente de inadimplemento). Ex. pagamento atrasado.
 
 **Mora ex persona** - obrigação de não fazer. Para processá-lo, precisa constituir o devedor em mora (notificação e ou citação)
+
+# Partes, litisconsórcio e terceiros
+
+## Partes
+Os três objetos da cognição do juiz (pressupostos processuais, condições da ação e mérito).
+E todos eles passam necessariamente pelo conceito de parte. 
+Partes: autor, réu e juiz. Fundamentos do processo do ponto de vista subjetivo.
+Do ponto de vista objetivo: petição inicial, regularidade formal e protocolização
+Pressupostos negativos: coisa julgada, perempção, litispendência.
+
+**Partes - distinção das capacidades**:
+
+1. Capacidade para ser parte: a possui quem tem personalidade, qualquer pessoa tem esta capacidade. Pessoa natural nascida com vida +  pessoa jurídica; além de determinados entes a quem a lei reconhece personalidade judiciária (só para fins processuais) ex. Massa falida, espólio, condomínio, Mesa da câmara, do senado.
+2. Capacidade para estar em juízo: tem a ver com a capacidade civil (questões de representação e assistência)
+3. Capacidade postulatória: só tem o advogado, ministério público, defensoria pública. As pessoas naturais precisam deles para suprir sua incapacidade postulatória.
+
+Mas o que é a parte?
+Condições da ação = legitimidade e interesse da parte. 
+
+Nos *pressupostos da ação* estamos vendo algumas características inerentes à parte, própria dela. 
+Nas *condições da ação*, não olhamos qualidade da pessoa enquanto ela própria, estamos olhando as qualidades num relacionamento jurídico material. 
+
+Exemplo: ela tem pretensão em relação ao réu no processo? Tem titularidade em tese da relação material afirmada em juízo?
+
+## Conceito de parte (história)
+Antes da autonomização da ciência processual, a ideia de parte se confundia com a ideia de credor e devedor. Com a titularidade do direito (civil, penal etc.). Não havia conceito processual de parte. 
+A ação é contra o Estado. O direito de ação é contra o Estado. O direito material é contra o réu. São diferentes subjetiva e objetivamente. 
+Jurisdição: processo de conhecimento e execução. Haveria também um processo cautelar. 
+Depois houve uma evolução do direito de ampla defesa.
+
+## O que é parte? Conceito formal. 
+> Giuseppe Chiovenda - um dos três maiores processualistas.
+>
+> Parte é aquele que pede (autor), em nome de quem se pede (advogado faz isso em nome do autor), contra quem (réu) ou em relação a quem se pede (alguém pode sofrer as consequências do pedido) uma providência jurisdicional. 
+
+E quem não é parte, é o que?
+R. É terceiro (em sentido lato = todo mundo).
+E como ocorre a intervenção de terceiros? Quem são os terceiros que podem participar do processo?
+R. São terceiros que guardam algum interesse jurídico no processo. Eles realizam atividades idênticas às partes.
+
+### Tipos de terceiros: 
+1. Absolutamente desinteressados. 
+2. Interesse de fato no processo (ex. Sua vizinha que está com medo de você perder para a reintegração de posse. Não pode participar no processo). Há pessoas que são economicamente interessadas apenas. Não podem participar no processo.
+3. Terceiro juridicamente interessado - o próprio código o define. Ele pode praticar diversos atos processuais. 
+
+Mas alguns terceiros também são partes? Como resolver isso?
+
+> Enrico Tulio Liebman resolveu o problema.
+>
+> Parte é todo **aquele que se encontra no contraditório perante o juiz** (autor, réu, terceiro chamado ao processo, denunciado à lide, assistente, ministério público etc.). Todo aquele admitido a estar no processo. 
+
+São partes do ponto de vista formal.
+**Obs. testemunha, perito não é parte.**
+**Obs. advogado não é parte nem terceiro. É representante.**
+
+**Então, qual a diferença entre os terceiros e autor/réu?**
+R. Não olhe do ponto de vista formal do processo. Para distinguir partes e terceiros que participam temos que olhar para a ação. A diferença é que autor e réu são partes legítimas, enquanto os terceiros não são partes legítimas. Os terceiros não têm legitimidade para discutir aquela relação jurídica. 
+ 
+> Autor/réu = parte legítima. O foco está na **condição da ação**. **Legitimidade ad causam** é isso que o terceiro interessado não tem.  
+
+## Quatro formas de uma pessoa participar no processo como parte:
+1. Ajuizando uma ação
+2. Sendo acionado/citado como réu
+3. Sucedendo a parte falecida
+4. Intervindo no processo como terceiro juridicamente interessado
+
+
+## Chamamento ao processo
+> Art. 130. É admissível o chamamento ao processo, requerido pelo réu:
+>
+> I - do afiançado, na ação em que o fiador for réu;
+>
+> II - dos demais fiadores, na ação proposta contra um ou alguns deles;
+>
+> III - dos demais devedores solidários, quando o credor exigir de um ou de alguns o pagamento da dívida comum.
+
+Nesses casos, os chamados ao processo também assumem a condição de réus (partes legítimas para figurar no polo passivo). 
+
+> Acaba mostrando um ponto fraco da teoria de Liebmann (são terceiros, mas que contam com legitimidade processual).
+
+Chamamento ao processo: é a forma que o réu tem de formar um litisconsórcio passivo ulterior (posteriormente à citação). O réu deve promover na contestação. O chamamento ao processo permite ao réu ampliar o polo passivo.
+Formas do réu responder a ação: 1. Contestando. 2. Reconvindo. 3. Chamamento ao processo. 4. Denunciando a lide. 
+ 
+## Denunciação da lide
+
+A denunciação da lide é uma ação que o réu move contra um terceiro no mesmo processo. O denunciado se torna réu do denunciante da lide. 
+Art. 125. É admissível a denunciação da lide, promovida por qualquer das partes:
+I - ao alienante imediato, no processo relativo à coisa cujo domínio foi transferido ao denunciante, a fim de que possa exercer os direitos que da evicção lhe resultam;
+II - àquele que estiver obrigado, por lei ou pelo contrato, a indenizar, em ação regressiva, o prejuízo de quem for vencido no processo.
+
+I - o réu chama o alienante para a lide a fim de evitar os danos sofridos pela evicção. O alienante pode ser obrigado a pagar o réu nos mesmos autos. Faço isso na minha contestação também. 
+II - Exemplo - cobrar indenização da seguradora.
+Ver art. 128 
+I - o denunciado à lide pode se tornar litisconsorte do réu (para fins de movimentação processual apenas) se contestar as pretensões do autor. 
+Obs. no momento em que o autor aciona o réu, este não tem direito contra o denunciado, tem apenas uma expectativa de direito. A lei abre uma possibilidade de antecipar essa lide contra o denunciado. Antecipa a discussão e resolve dois conflitos em um processo só.
+O denunciado em litisconsórcio é como um “assistente” do réu no enfrentamento do autor. 
+Só cabe uma denunciação sucessiva da lide. Art. 125, §2º.
+Quem não denunciou a lide, não perde o direito de ação regressiva.
+
+
+## A denunciação promovida pelo autor - art. 126 e 127
+
+Art. 127. Feita a denunciação pelo autor, o denunciado poderá assumir a posição de litisconsorte do denunciante e acrescentar novos argumentos à petição inicial, procedendo-se em seguida à citação do réu.
+
+Ex. é o caso de ação declaratória negativa, por exemplo, para afirmar o meu direito de propriedade. Eu denuncio o antigo proprietário para me ajudar contra o réu. É útil quando o réu faz reconvenção e vence a lide.
+
+> Na denunciação da lide, a lei antecipa a legitimação da parte em nome da economia processual!
+
+
+## Da assistência simples 
+> Art. 119. Pendendo causa entre 2 (duas) ou mais pessoas, o terceiro juridicamente interessado em que a sentença seja favorável a uma delas poderá intervir no processo para assisti-la.
+>
+> Parágrafo único. A assistência será admitida em qualquer procedimento e em todos os graus de jurisdição, recebendo o assistente o processo no estado em que se encontre.
+
+O terceiro juridicamente interessado poderá intervir no processo para assistir uma das partes. Se não houver impugnação, o pedido pode ser deferido. Contra o deferimento ou indeferimento cabe agravo de instrumento, art. 1.015, IX.
+O interesse deve ser jurídico na relação entre assistente e assistido.
+O assistente sujeita-se aos ônus processuais do assistido. O assistente pode ser substituto processual do assistido revel. O assistente simples não tem poder para impedir a atuação do assistido, pois este é o titular do direito (então ele pode renunciar, transigir etc.). 
+
+> Assistência é a modalidade de intervenção de terceiros no processo (parte em sentido formal) que apresenta o terceiro mencionado por Liebmann. Ele não exerce nem ação nem a exceção. 
+
+O assistente não é citado. Ele se apresenta espontaneamente. O chama
+mento e a denunciação, por outro lado, são formas provocadas de intervenção de terceiros no processo.
+
+
+## Diferença entre assistência litisconsorcial e assistência simples
+
+* Assistência litisconsorcial ou qualificada (a sentença vai **interferir na relação jurídica entre assistente e adversário do assistido**). O assistente tem o seu direito afetado pela vitória do adversário do assistido.
+
+* Na assistência litisconsorcial, como o direito também é do assistente, ele tem poder de contraste. Não permite a renúncia, acordo desejado pelo assistido. 
+
+* Assistência simples (a sentença vai interferir na relação jurídica entre assistente e assistido).
+
+Obs. O assistente nem sempre atua em favor do réu, pode ser do autor também. 
+
+## Do amicus curiae
+
+## Do Litisconsórcio
+
+Art. 113. Duas ou mais pessoas podem litigar, no mesmo processo, em conjunto, ativa ou passivamente, quando:
+I - entre elas houver comunhão de direitos ou de obrigações relativamente à lide;
+II - entre as causas houver conexão pelo pedido ou pela causa de pedir;
+III - ocorrer afinidade de questões por ponto comum de fato ou de direito.
+Os três incisos tratam do litisconsórcio facultativo. É uma faculdade das partes, elas podem se litisconsorciar (ativa ou passivamente). 
+I - comunhão de direitos ou obrigações - temos os mesmos direitos. Ex. herdeiros, condônimos.
+II - por conexão entre o pedido ou causa de pedir - não somos titulares dos mesmos direitos, mas há conexões de causas. Ex. o banco infringiu a cláusula contratual de três clientes diferentes do contrato padrão. Os três se unem contra o banco. 
+III - ocorrer afinidades  de questões por ponto comum de fato ou direito (também qualificado de litisconsórcio por afinidade - Ex. em momentos diferentes do tempo, homens de idades diferentes, mas pessoas que se sentem lesadas por propaganda enganosa. A comunhão é de grau menor. 
+O juiz pode limitar o litisconsórcio para que não prejudique o andamento do processo. 
+Art. 114. O litisconsórcio será necessário por disposição de lei ou quando, pela natureza da relação jurídica controvertida, a eficácia da sentença depender da citação de todos que devam ser litisconsortes.
+Esse é o litisconsórcio necessário 
+
+### Razões para que ocorra o litisconsórcio necessário:
+1. Disposição de lei - ex. A lei diz que em ação de usucapião todos os confinantes serão citados. Pode ser também unitário ou comum.
+2. Natureza da relação controvertida. Ex. quando a ação jurídica for um bloco jurídico que não pode ser discutido se a pessoa não estiver lá. Será também litisconsórcio unitário.
+Ex. anulação do casamento precisa ter a participação dos dois cônjuges. Ex. rescisão do contrato em face dos três contratantes. 
+Art. 116. O litisconsórcio será unitário quando, pela natureza da relação jurídica, o juiz tiver de decidir o mérito de modo uniforme para todos os litisconsortes.
+
+* **Litisconsórcio unitário** quando a sentença tem de ser igual para todos os litisconsortes. 
+* **Litisconsórcio comum** - onde o juiz pode julgar diferente para os vários litisconsortes. 
+* **Litisconsórcio originário** (estabelecido na petição inicial) x litisconsórcio ulterior (aquele que se forma depois que ação está proposta. Ex. chamamento ao processo).
+
+### Fase ordinatória
+Inicia-se após a fase postulatória (com a contestação, ou reconvenção, se houver).
+Os autos vem ao juiz para que tome uma das seguintes providências:
+
+1. Reu rével pode não demandar maiores diligências, e o processo pode ter o julgamento de mérito.
+2. Quando a revelia não produz seus efeitos, o juiz determinará as provas necessárias para apuração dos fatos. Autor e réu revel poderão produzir as provas (as do réu apenas se contrapondo às alegações do autor).
+3. Abre prazo para réplica do autor, se o réu alegar fatos impeditivos, modificativos ou extintivos do direito do autor.
+4.  Se o réu alegar questões preliminares, art. 337, o juiz pedirá a manifestação do autor sobre elas, e abrirá prazo para regularizar problemas sanável no processo, se houver.
+5. Haverá julgamento antecipado do mérito, se a questão for apenas controvérsia de direito ou de fatos que não demandem a produção de provas.
+6. Pode julgar o mérito dos pedidos que se mostrem incontroversos, e dar prosseguimento no processo aos demais pedidos;
+7. Se o réu contestar e não couber julgamento antecipado, o juiz determinará o saneamento e organização do processo, art. 357.
+
+### A revelia e o julgamento antecipado do mérito
+Se a revelia gerar presunção de veracidade dos fatos, haverá julgamento antecipado do mérito.
+Caso contrário, o autor especificará as provas que quer produzir. O réu que chegar a tempo pode se contrapor às alegações do réu. Mas não fatos impeditivos, modificativos, extintivos do direito;
+
+
+## Réplica
+Há necessidade dela quando o réu alega as questões preliminares do art. 337 (coisa julgada, litispendência, inépcia da petição etc.) ou quando apresenta fatos impeditivos, modificativos ou extintivos do direito do autor;
+O que explica a necessidade de réplica é o contraditório; são questões novas;
+Não pode o autor inovar na réplica; não haverá tréplica (em regra). Pode apresentar prova documental neste momento.
+
+## Regularização
+Ao longo de todo o processo o juiz exerce as funções fiscalizadoras e saneadoras; pode pedir a correção de irregularidades ou vícios sanáveis.
+A decisão saneadora estabiliza definitivamente a demanda (não pode mais mudar pedido ou causa de pedir).
+Caso haja vício insanável, o processo se extingue sem resolução de mérito. O processo pode até voltar à fase anterior, por exemplo, se a citação não foi feita corretamente.
+
+## Especificação de provas
+A especificação de provas não vincula nem as partes nem o juiz; este pode determinar aquelas não requeridas, mas que possam contribuir para a sua convicção;
+
+## Julgamento conforme o estado do processo
+Depois de ler as manifestações das partes e sanadas as irregularidades, o juiz terá se o processo ou alguns pedidos estão em condições de serem julgados desde logo (outros pedidos ainda demandarão provas).
+Se julgar aqui será considerado julgamento antecipado do mérito (não passou pela fase instrutória).
+
+**Possibilidades:**
+
+1. O juiz extingue o processo;
+Está no art. 354 do CPC. É extinção sem resolução de mérito, art. 485. Ou falsas sentenças de mérito (decide sem apreciar o pedido das partes).
+Ex. renúncia do direito, transação, reconhecimento da prescrição ou decadência.
+
+2. Promove o julgamento antecipado do processo;
+Nesse caso, não ocorre decisão saneatória (ela só é necessária quando vai se abrir fase de instrução). 
+O mérito é possível de julgar antecipadamente pela revelia que produz seus efeitos ou quando não há necessidade de produzir provas;
+
+3. Faça o julgamento antecipado parcial do mérito;
+O CPC autoriza julgamento parcial do mérito. O processo prossegue quando aos outros pedidos; é a cisão do julgamento do mérito; 
+A decisão será interlocutória de mérito (não é sentença parcial, pois cada processo só pode ter uma sentença); 
+Cabe agravo de instrumento da decisão; 
+A decisão impõe título judicial que pode ser executado; 
+
+4. Abra a fase de instrução após a decisão de saneamento e organização do processo;
+A decisão é interlocutória; o juiz delimita as questões de fato sobre as quais recaem a atividade probatória; especifica os meios de prova admitidos; 
+Pode haver, em casos de complexidade, audiência para saneamento do processo em cooperação com as partes; 
+Após decisão saneadora, abre-se prazo para questionamento das partes; após isso, a decisão se estabiliza (não preclusa; pode ser examinada pelo órgão adquem);
