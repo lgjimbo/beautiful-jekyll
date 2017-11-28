@@ -30,7 +30,7 @@ Manutenção do processo aqueado(???) pelo contraditório (1), prover regularida
 ## Primeira providência preliminar Art. 351
 **Art. 351** - tem de ser aplicado antes do 350 --> a oportunidade de réplica sobre preliminares é a 1a. providência preliminar (resposta principiológica = **contraditório**). O **réu poderá ter alegado fatos novos**.
 
-Obs: Sempre o juiz dará oportunidade de réplica para o autor falar sobre todas as questões preliminares trazidas pelo réu na contestação. Ele não decidirá antes de dar a oportunidade ao autor de falar em réplica sobre a constestação.
+> Sempre o juiz dará oportunidade de réplica para o autor falar sobre todas as questões preliminares trazidas pelo réu na contestação. Ele não decidirá antes de dar a oportunidade ao autor de falar em réplica sobre a constestação.
 
 * Art. 350 e 351 são aplicáveis no mesmo instante (2 razões para das a réplica ao autor)
 * se só houver preliminares, aplica-se apenas o Art.351 (réplica de preliminar do Art. 337)
@@ -38,63 +38,77 @@ Obs: Sempre o juiz dará oportunidade de réplica para o autor falar sobre todas
 * **negativa geral** sem prelimnar --> o juiz faz o que sempre se faz --> manda o réu falar. ou seja, **tem contraditório mesmo sem fato novo**.
 
 **Defesa de mérito direta** - **ataca o fato constitutivo** do direito do autor
-**Defesa de mérito INdireta** - **admite** o fato constitutivo, mas alega **fato extintivo**, **fato modificativo** ou **fato impeditivo**.
+**Defesa de mérito Indireta** - **admite** o fato constitutivo, mas alega **fato extintivo**, **fato modificativo** ou **fato impeditivo**.
 
 **Fatos novos**: 
 * fato extintivo: pagamento, remissão (perdão), anistia ou compensação
-* fato modificativo: o réu traz fatos modificativos como a novação, alteração de cláusula ou compensação
+* fato modificativo: o réu traz fatos modificativos como a novação, alteração de cláusula contratual ou compensação
 * fato impeditivo: impede a realização, a efetivação do direito do autor (e.g. retenção por benfeitoria)
 
 ***exceptio non adimpleti contractus*** - enquanto o autor não cumprir sua obrigação, o juiz não determinará que p réu cumpra a sua.
 
 ## Segunda providência preliminar Art. 350
-**Réplica do autor sobre fatos novos**, no prazo de 15 dias. A primeira e a segunda providências são sempre juntas.
+**Réplica do autor sobre fatos novos**, no prazo de 15 dias. A primeira e a segunda providências são **sempre juntas**.
 
 ## Terceira providência preliminar Art. 352
-Depois das réplicas, o juiz determina a **regularização do processo**. É a oportunidade às partes para a regularização do processo, como: (1) assinatura do procurador, recolhimento de custas. Se o autor na réplica apresentar documento, abre-se prazo de 10 dias para o réu falar. Quando isso ocorre é a tréplica.
+A terceira proveidência é sempre isolada,depois das réplicas, o juiz determina a **regularização do processo**. É a oportunidade às partes para a regularização do processo, como: (1) assinatura do procurador, recolhimento de custas. Se o autor na réplica apresentar documento, abre-se prazo de 10 dias para o réu falar. Quando isso ocorre é a tréplica.
 
 ## Quarta providência preliminar Art. 348
 É a revelia sem efeito --> manda o autor produzir prova.
 
-De fato, o que o ocorre é que os juízes aplicam esse dispositivo, **sem a revelia**. Ou seja, sempre o juiz manda o autor produzir as provas.
+Essa providência, na forma como está redigida, é, para Costa Machado, extraordinária, pois é muito frequente e quando é aplicada de fato nos processo **sem revelia**.
 
+Ou seja, é a determinação que o juiz faz depois das providências tomadas, no sentido que as partes especifiquem as provas que pretendam produzir para preparar o julgamento conforme o estado do processo.
 
 ## Decisão de saneamento par aoutros casos Art. 357
 Se não for o caso do Art 353, decisão de saneamento (*ato complexo*). **Isso encerra a fase ordinatória**. É uma transição para a fase ordinatória.
 
 ## Proferimento de julgamento conforme o estado do processo Art. 353
-Cumpridas as providências, o juiz proferirá julgamento no estado do processo.
+Cumpridas as providências, o juiz proferirá julgamento no estado do processo. 
  
 # Julgamento no Estado do Processo Art. 354 e ss
 No momento do julgamento, o juiz tem três possibilidades:
 
-1. Art. 354 - Extinção do processo
-2. Art. 355 - Julgamento antecpado do mérito (sem mandar para a fase probatória)
-3. Julgamento antecipado parcial do mérito (!novidade)
+1. Art. 354 - Extinção do processo, que é o que o réu busca.
+2. Art. 355 - Julgamento antecipado do mérito (resolve o litígio naquele momento sem mandar para a fase probatória). Pois acredita que as provas não são necessárias.
+3. Julgamento antecipado parcial do mérito (!novidade do Novo CPC). TRaz agilidade no processo e já resolve aquilo que não depende de prova.
+4. saneamento do processo (Art. 357) 
 
-**Art. 357** - **saneamento** caso não seja possível nenhuma das 3 primeiras possibilidades.
+**Art. 485** - a extinção do processo é uma sentença terminativa.
 
 **Art. 487, II** - a sentença que decide a decadência ou prescrição não é terminativa, mas sim defitiva.
 
-**Saneamento** (grande decisão interlocutória) não se confunde com a fase de saneamento ou ordinatório - atividade de saneamento está presente do início ao fim do processo.
+**Art. 355** - julgamento antecipado, quando não tem mais nada para provar. I-não necessitar de prova e II-revelia com efeitos
 
-**Despacho saneador** (código de 1939)
+**Art. 356** - julgamento antecipado parcial do mérito. I - incontroverso e II hipóteses do 355 (não tem mais nada para provar); p3 - se não hovuer trânsito em julgado, pode executar mas será provisória; p5 - a apelação não cabe pois o processo continua tramitando na primeira instância, por isso faz-se a impugnação da decisão interlocutória através do **agravo** pois este é um processo apartado.
+
+## Saneamento do processo
+É uma tividade que se desenvolve durante todo o curso do processo desde abertura da inicial até o trânsito em julgado em todas as instâncias para eliminar irregularidades no processo. 
+
+A fase de saneamento é a que segue a postulatória e antecede a instrutória e o **ato de saneamento** é o último da fase de saneamento e que abre a fase instrutória do processo.
+
+O saneamento é uma grande **decisão interlocutória**. Não é sentença, é **ato complexo** por meio do qual o juiz pratica vários atos previsto no Art 357.
+
+**Art. 357** - **saneamento** caso não seja possível nenhuma das 3 primeiras possibilidades (extinção, julgamento antecipado ou julgamento antecipado parcial). O juiz declarar que estão presentes os pressupostos processuais, que o processo não tem condição de ser julgado antecipadamente ou exinguí-lo e ele abre o ato de saneamento. O juiz profere uma **decisão** de saneamento. 
+
+**Despacho saneador** (termo utilizado no código de 1939)
+
 **Atos praticados por escrito**
 **Art. 357, Caput** - se não vai extinguir, não vai julgar completamente ou parcialmente o mérito antecipadaemnte.
 
-1. Resolver questões processuais pendentes
-2. Delimitar questões de fato sobre as quais recairá a atividade probatória (impossível ao juiz fazer isso, diante do caos que é nossa Justiça)
-3. Resolver a questão do ônus da prova (inversão ou manutenção) - **Art. 373** - o juiz deve inverter e dizer claramente quem tem o ônus.
-4. Delimitar as questões relevantes para a decisão de mérito
-5. Designar, se necessário, audiência de instrução e julgamento. Marcadada, normalmente,se não precisar de prova pericial; mas se precisar, em geral, não marca. Se for fazer as duas, a audiência deverá ser bem longe, porque a perícia demora.
+1. Resolver questões processuais pendentes (e.g. valor da causa, erro na representação, não recolheu custas, intervenção de terceiros)
+2. Delimitar questões de fato sobre as quais recairá a atividade probatória (impossível ao juiz fazer isso, diante do caos que é nossa Justiça. Pois quem conhece o fatos são autor e réu)
+3. Resolver a questão do ônus da prova (inversão ou manutenção) - **Art. 373** - o juiz deve inverter e dizer claramente quem tem o ônus. Novidade do código.
+4. Delimitar as questões relevantes para a decisão de mérito. 
+5. Designar, se necessário, audiência de instrução e julgamento. Marcadada, normalmente,se precisar de prova pericial; mas se nãocprecisar, em geral, não marca. Se for fazer as duas, a audiência deverá ser bem longe, porque a perícia demora.
 
-**Art. 357, p1** - Cabe pedido de esclarescimentos, ajustes, ainda que não caiba agravo sobre o tema. A decisão é estável (não preclusa), porque o juiz pode arrumar.
+**Art. 357, p1** - muito interessante. Cabe pedido de **esclarescimentos, ajustes**, ainda que não caiba agravo sobre o tema. **Isso é recurso**. A decisão é estável (não preclusa), porque o juiz sempre pode arrumar.
 
-**Art. 357, p2** - as partes podem delimitar consensualmente as questões de fato e de direito.
+**Art. 357, p2** - as partes podem delimitar **consensualmente** as questões de fato e de direito. Isso é um dos novos princípios do CPC (consensualidade). Segundo Costa Machado, isso não deve ocorrer com frequência pois não é do interesse do réu.
 
-**Art. 357, p3** - saneamento em cooperação. Maravilhoso para a Suiça. Aqui não há condições para os juizes fazerem.
+**Art. 357, p3** - saneamento em cooperação para causas complexas. Maravilhoso para a Suiça. Aqui não há condições para os juizes fazerem.
 
-**Art. 357, p4** - Prova testemunhal com prazo comum de até 15 dias para apresentação do rol de testemunhas.
+**Art. 357, p4** - outra novidade boa e bem importante. Prova testemunhal com prazo comum de até 15 dias para apresentação do rol de testemunhas. Bom pois já prepara o andamento do processo, as partes podem se preparar bem para a audiência, tentando a impugnação no dia da audiência.
 
 **Art. 357, p5** - levar rol no caso do p3.
 
@@ -104,33 +118,121 @@ No momento do julgamento, o juiz tem três possibilidades:
 
 
 # Tutela Provisória
-No Código Buzaid havia processo cautelar, que para o professor funcionava muito bem, com apenas alguns problemas e bastava consertá-los.
+No Código de 73 havia processo cautelar, que para o professor funcionava muito bem, com apenas alguns problemas e bastava consertá-los.
 
-**Art. 294** - **urgência** ou **evidência**. O direito é bastante evidente. Ex. Reintegração de posse (tutela de evidência). Nesse caso não há urgência.
+Antes havia um processo cautelar (além do processo de conhecimento e de execução) para a concessão de providências rápidas por conta de perigos que existem de danos aos direitos e ao objeto do processo. Era o único código de processo com um livro inteiro sobre processo cautelar autônomo no mundo!!
 
+Trocaram o processo cautelar autônomo pela tutela provisória.
+
+A **tutela provisória** é uma forma diferente de tutela jurisdicional, porque ela é provisória. É uma providência jurisdicional rápida, imediata, que juiz concede no início do processo. Normalmente sob a forma de medida liminar (limine - batente da porta - na porta de entrada do processo). É o sonho dourado de toda a parte e advogado. Você ganha antes de jogar.
+
+## Tutela de urgência e evidência
+**Art. 294, caput** - **urgência** ou **evidência**. O direito é bastante evidente. Ex. Reintegração de posse (tutela de evidência). Nesse caso não há urgência.
+
+>  tutela provisória pode fundamentar-se em urgência ou evidência
+
+* **urgência** - A pessoa vai requerer porque está em situação de urgência. A sentença depois de um tempo será inexequível. Há um risco. Ex. a mãe que entregou o filho para o pai passar o final de semana, mas o pai levou a criança para o Paquistão. Ela precisa de uma providência para deter o pai antes dele pegar o avião. ***Periculum in mora***.
+
+* **evidência** - A evidência tem a ver com o direito que se manifesta evidente em determinadas situações. Ex. reintegração de posse! O direito é evidente, deve ser executado imediatamente. A lei escolhe determinados direitos e os classifica como evidentes. ***Fumus bonus iuris (fumaça do bom direito)***.
+
+### Tutela de urgência
 **Art. 300** - ***fumus boni iuris et periculum in mora***
+> A tutela de urgência será concedida quando houver elementos que evidenciem a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo.
 
-**Art. 311** - Tutela de evidência com 4 incisos.
+Confirma o que diz o art. 294. Elementos - fumus bonus iuris e periculum in mora. Os dois devem estar presentes.
 
-**liminar** o que é dado antes do réu se defender.
+
+
+### Tutela de evidência
+**Art. 311** - **Tutela de evidência** com 4 incisos.
+
+> A tutela da evidência será concedida, independentemente da demonstração de perigo de dano ou de risco ao resultado útil do processo, quando
+
+São situações em que não é exigido o periculum in mora. Ver os incisos. Há quatro possibilidades de tutela de evidência.
+
+> I - ficar caracterizado o abuso do direito de defesa ou o manifesto propósito protelatório da parte.
+>
+> III - pedido reipersecutório e há prova documental de contrato de depósito desrespeitado. Ex. carro no estacionamento
+>
+> II - Você prova documentalmente todas as alegações de fato e aponta súmula vinculante ou jurisprudência consolidada. O juiz concede a tutela provisória sem citar o réu.
+>
+> IV - o réu não consegue se defender direito (se defende mal). Não confundir com revelia, que é não defesa, com a consequente presunção de veracidade dos fatos.
+
+Obs: **liminar** o que é a tutela dada antes do réu ser citado.
+
+> Segundo o prof., todos os casos de tutela de evidência é antecipada (e isso não está escrito em lugar algum)
+
+
+##Tutela antecipada, cautelar, antecipada e incidental
+
+> Art. 294, p único: A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental
+
+###Tutela antecipada
 
 **Art. 294, púnico** - **Tutela antecipada**
 Antecipa os resultados da sentença, também chamada de **tutela satisfativa**. Ou seja, o direito que o autor diz que tem é satisfeita imediatamente. 
 Inovatura segundo Carnelucci, tem foco no quadro fático (inovação de quadro). Fático (o réu é quem vai chorar).
 
-**Tutela cautelar** é paralização de uma situação fática, chamada também de **arresto**, pois resguarda uma situação.
+> É aquela situação em que o juiz ao dar a medida liminar, ele **antecipa os resultados da sentença com todos os efeitos da sentença final**. 
+
+É também chamada de tutela satisfativa (porque quando é antecipada, o direito do autor na petição inicial é satisfeito). 
+
+Ex. reintegração de posse - é dada imediatamente. O direito foi satisfeito imediatamente. Outro exemplo: internação em hospital e operação de emergência. 
+Pode ser **chamada também de inovativa** se a gente olha para o quadro fático. O juiz inova o quadro fático ao satisfazer o direito do autor.
+
+
+###Tutela cautelar
+> **Tutela cautelar** é paralização de uma situação fática, chamada também de **arresto**, pois resguarda uma situação. Quando o juiz **não antecipa os efeitos da sentença**. Ele apenas paralisa uma situação fática. 
+
+Ex. determina o arresto dos bens impedindo a venda. A tutela cautelar resguarda uma situação.  
 
 > Não pode ser cautelar e antecipada ao mesmo tempo, pelo CPC.
 
-**Tutela antecedente** ocorre **antes** da ação ser proposta (da principal).
 
-**Tutela incidental** no meio do processo quando surge.
+###Tutela antecedente
 
-**Art. 303, Caput**
+> **Tutela antecedente** ocorre **antes** da ação ser proposta (da principal). Antes da petição inicial. 
 
-**Art. 305, Caput** só a petição da tutela cautelar.
+Ex. a criança vai para o Afeganistão. Vou ao fórum antes de fazer a petição inicial formalmente completa, o juiz já concede) 
+
+
+###Tutela incidental
+
+> É concedida quando o processo já está em curso. 
+
+Já há petição inicial, o processo está em curso; e durante o seu andamento surge a necessidade de cautelar. Ela é incidental.
+
+## Do procedimento da tutela antecipada requerida em caráter antecedente
+> Art. 303, caput: Nos casos em que a urgência for contemporânea à propositura da ação, a petição inicial pode limitar-se ao requerimento da tutela antecipada e à indicação do pedido de tutela final, com a exposição da lide, do direito que se busca realizar e do perigo de dano ou do risco ao resultado útil do processo
+
+É a petição inicial limitada pela urgência. Chamada pelo professor de **“petiçãozinha meia-boca”**. O artigo expõe o procedimento para requerer tutela antecipada (antecipa os resultados da sentença).
+
+
+## Do procedimento da tutela cautelar requerida em caráter antecedente
+> Art.305, caput: A petição inicial da ação que visa à prestação de tutela cautelar em caráter antecedente indicará a lide e seu fundamento, a exposição sumária do direito que se objetiva assegurar e o perigo de dano ou o risco ao resultado útil do processo
+
+São os requisitos para pedir tutela cautelar (resguarda uma situação fática) em caráter antecedente. É outra petição simplificada.
 
 > Toda tutela provisória de evidência é antecipada.
+
+## Tutela provisória em caráter incidental
+
+> Art. 295: A tutela provisória requerida em caráter incidental independe do pagamento de custas
+
+A tutela incidental (durante o processo) independe do pagamento de custas.
+
+## Possibilidade de pedido principal conjuntamente ao cautelar
+
+> Art. 308, p1: O pedido principal pode ser formulado conjuntamente com o pedido de tutela cautelar
+
+O pedido cautelar pode ser formulado conjuntamente com o principal.
+
+> Vale por analogia no procedimento da tutela antecipada. 
+>
+> Ou seja, é recomendável fazer os pedidos da tutela provisória na petição inicial (assim evita-se a petiçãozinha meia boa!).
+>
+> Quando peço a **tutela na inicial ela é sempre incidental**. Do mesmo jeito que é incidente quando peço no curso do processo. 
+
 
 # Citação
  A citação é um ato formal de comunicação judicial. A intimação é menos formal.
@@ -189,4 +291,3 @@ Outros efeitos:
 **constituir em mora** - cumprimento imperfeito de uma obrigação (diferente de inadimplemento). Ex. pagamento atrasado.
 
 **Mora ex persona** - obrigação de não fazer. Para processá-lo, precisa constituir o devedor em mora (notificação e ou citação)
-
