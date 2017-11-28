@@ -233,6 +233,100 @@ O pedido cautelar pode ser formulado conjuntamente com o principal.
 >
 > Quando peço a **tutela na inicial ela é sempre incidental**. Do mesmo jeito que é incidente quando peço no curso do processo. 
 
+## Tutela de evidência é sempre incidental
+> Art. 311, púnico: Nas hipóteses dos incisos II e III, o juiz poderá decidir liminarmente.
+
+A tutela de evidência é sempre incidental! Porque a evidência vem do réu contestar e abusar o direito de defesa; contestar mal; o autor provar tudo com súmula vinculante; ou seja, o processo já está em curso!! E sempre antecipada, nunca cautelar.
+
+## Tutela de urgência pode ser concedida liminarmente
+> A tutela de urgência pode ser concedida liminarmente ou após justificação prévia
+
+A tutela de urgência pode ser concedida **liminarmente** (**antes de ouvir o réu** - após recebimento da petição inicial) ou após **justificação prévia** (é uma **audiência especial** do processo civil porque tem a única **finalidade de permitir ao autor provar com testemunhas, o que ele não conseguiu provar com documentos**; 
+
+> a justificação prévia vale para tutela antecipada, cautelar, antecedente e incidente
+
+Pois a urgência exige - normalmente acontece um ou dois dias depois. Não precisa haver participação do réu, o contraditório fica para depois - ouve apenas as testemunhas do autor para convencer o juiz do periculum in mora e fumus bonus iuris).
+
+## Exigência de caução ou fidejussória
+> Art. 300, p1: Para a concessão da tutela de urgência, o juiz pode, conforme o caso, exigir caução real ou fidejussória idônea para ressarcir os danos que a outra parte possa vir a sofrer, podendo a caução ser dispensada se a parte economicamente hipossuficiente não puder oferecê-la
+
+É um condicionamento para concessao de tutela provisória. O juiz pode exigir **caução real** (apartamento, terreno, uma coisa) ou **fidejussória** (garantia pessoal - carta de fiança - alguém assume o risco) em caso de concessão de tutela de urgência. 
+
+**Cabe tanto para a cautelar como para a antecipada**. É um condicionamento.
+
+> **Apenas válido para medidas de caráter econômico**. Em outros casos não pode quantificar. Ex. Devolver a guarda da filha.
+
+## Decisão de tutela é decisão interlocutória
+
+> Art. 298: Na decisão que conceder, negar, modificar ou revogar a tutela provisória, o juiz motivará seu convencimento de modo claro e preciso
+
+A decisão de tutela provisória é **decisão interlocutória (não é despacho, nem sentença)**. 
+
+O juiz precisa fundamentar de modo claro e preciso. **Essa decisão é agravável** (cabe agravo de instrumento para o Tribunal - 2ª instância).
+
+## Juizo de competência para a tutela provisória
+> Art. 299: A tutela provisória será requerida ao juízo da causa e, quando antecedente, ao juízo competente para conhecer do pedido principal
+
+A tutela provisória **incidental** será requerida ao **juiz da causa**; 
+
+Quando **antecedente** ao **juízo competente para conhecer do pedido principal** (de acordo com o que será a ação principal é possível fazer a avaliação da competência).
+
+## Tutela seguinda de mandado
+> Art. 297, púnico: A efetivação da tutela provisória observará as normas referentes ao cumprimento provisório da sentença, no que couber
+
+**A tutela provisória normalmente é seguida de mandado** para oficial de justiça cumprir. 
+
+> O dispositivo se aplica a tutela que tiver que seguir as normas do cumprimento provisório de sentença no caso de execução de dinheiro. Mas aí o caso é mais complexo.
+
+## Poder geral de cautela
+> Art. 301: A tutela de urgência de natureza cautelar pode ser efetivada mediante arresto, sequestro, arrolamento de bens, registro de protesto contra alienação de bem e qualquer outra medida idônea para asseguração do direito”
+
+Aqui está previsto o **poder geral de cautela ou poder genérico de cautela**. Ele é a maior conquista da justiça. Não existia até 1942 na Itália. Permitiu a efetivação das liminares. Quem inventou foi Piero Calandrei. É um poder ilimitado. 
+
+**Segue o princípio da fungibilidade das cautelares** (o juiz pode dar cautelar ou antecipada - conforme o mais adequado para o caso; mesmo sendo de uma delas o pedido do autor). 
+
+## Requisitos para postular do juiz a aplicação do poder geral de cautela
+> Art. 305, caput: A petição inicial da ação que visa à prestação de tutela cautelar em caráter antecedente indicará a lide e seu fundamento, a exposição sumária do direito que se objetiva assegurar e o perigo de dano ou o risco ao resultado útil do processo
+
+A petição inicial e os requisitos para o autor postular do juiz a aplicação do poder geral de cautela. É o complemento. Trata da tutela cautelar antecedente.
+
+## Poder geral de antecipação
+> Art. 303,caput: Nos casos em que a urgência for contemporânea à propositura da ação, a petição inicial pode limitar-se ao requerimento da tutela antecipada e à indicação do pedido de tutela final, com a exposição da lide, do direito que se busca realizar e do perigo de dano ou do risco ao resultado útil do processo
+
+Aqui temos o **poder geral de antecipação**! Eu posso pedir **qualquer antecipação de efeitos práticos ou fáticos**. De sentença executiva, constitutiva, declaratória, mandamental (sem limite). A lei não discrimina as medidas. 
+
+## Regulação do poder geral de antecipação
+> Art. 303, p3: A tutela de urgência de natureza antecipada não será concedida quando houver perigo de irreversibilidade dos efeitos da decisão
+
+É uma regulação do **poder geral de antecipação**. A tutela antecipada somente pode ser concedida quando houver possibilidade de reversibilidade.**Mas há casos em que pode acontecer mesmo que seja irreversível**. Ex. 
+
+
+## Procedimento da tutela cautelar em caráter antecedente
+
+> Art. 305 e ss
+
+* Os procedimentos da tutela cautelar e da antecipada são diferentes. 
+* Ação cautelar antecedente continua existindo, segundo o professor.
+* O réu tem 5 dias para contestar a ação cautelar. 
+* E pode indicar as provas que pretende produzir.
+
+> **Novidade**: o pedido principal (ação de conhecimento) será incluído nos mesmos autos do pedido cautelar - art. 308. Antes eram dois instrumentos diferentes.
+
+## Procedimento da tutela antecipada requerida em caráter antecedente
+
+> Art. 303
+
+* Na tutela antecipada não tem procedimento. 
+* Não há contestação. Só cabe recurso (agravo). 
+* Caso contrário, o processo acaba. Art. 304. 
+
+> Art. 304: A tutela antecipada, concedida nos termos do art. 303, torna-se estável se da decisão que a conceder não for interposto o respectivo recurso.
+ 
+* No caso previsto no caput, o processo será extinto
+* A possibilidade é tentar a reforma da tutela através de outra ação, §2º, art. 304.
+
+> §2º, art. 304: Qualquer das partes poderá demandar a outra com o intuito de rever, reformar ou invalidar a tutela antecipada estabilizada nos termos do caput.
+
 
 # Citação
  A citação é um ato formal de comunicação judicial. A intimação é menos formal.
@@ -245,7 +339,7 @@ O pedido cautelar pode ser formulado conjuntamente com o principal.
 
 **Art. 238** - A citação é um **requisito de validade** da relação processual. Sua não existência leva ao indeferimento da inicial e improcedência liminar do pedido.
 
-**Indeferimento da inicail** (inépcia, por exemplo) - a petição é indigna de apreciação do judiciário, mas **pode ser ajuizada novamente** no dia seguinte.
+**Indeferimento da inicial** (inépcia, por exemplo) - a petição é indigna de apreciação do judiciário, mas **pode ser ajuizada novamente** no dia seguinte.
 
 **Improcedência** - julgamento do mérito liminar do pedido e **não pode ajuizar a mesma ação (coisa julgada)**.
 
