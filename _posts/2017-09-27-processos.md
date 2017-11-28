@@ -163,11 +163,11 @@ Obs: **liminar** o que é a tutela dada antes do réu ser citado.
 > Segundo o prof., todos os casos de tutela de evidência é antecipada (e isso não está escrito em lugar algum)
 
 
-##Tutela antecipada, cautelar, antecipada e incidental
+## Tutela antecipada, cautelar, antecipada e incidental
 
 > Art. 294, p único: A tutela provisória de urgência, cautelar ou antecipada, pode ser concedida em caráter antecedente ou incidental
 
-###Tutela antecipada
+### Tutela antecipada
 
 **Art. 294, púnico** - **Tutela antecipada**
 Antecipa os resultados da sentença, também chamada de **tutela satisfativa**. Ou seja, o direito que o autor diz que tem é satisfeita imediatamente. 
@@ -181,7 +181,7 @@ Ex. reintegração de posse - é dada imediatamente. O direito foi satisfeito im
 Pode ser **chamada também de inovativa** se a gente olha para o quadro fático. O juiz inova o quadro fático ao satisfazer o direito do autor.
 
 
-###Tutela cautelar
+### Tutela cautelar
 > **Tutela cautelar** é paralização de uma situação fática, chamada também de **arresto**, pois resguarda uma situação. Quando o juiz **não antecipa os efeitos da sentença**. Ele apenas paralisa uma situação fática. 
 
 Ex. determina o arresto dos bens impedindo a venda. A tutela cautelar resguarda uma situação.  
@@ -189,14 +189,14 @@ Ex. determina o arresto dos bens impedindo a venda. A tutela cautelar resguarda 
 > Não pode ser cautelar e antecipada ao mesmo tempo, pelo CPC.
 
 
-###Tutela antecedente
+### Tutela antecedente
 
 > **Tutela antecedente** ocorre **antes** da ação ser proposta (da principal). Antes da petição inicial. 
 
 Ex. a criança vai para o Afeganistão. Vou ao fórum antes de fazer a petição inicial formalmente completa, o juiz já concede) 
 
 
-###Tutela incidental
+### Tutela incidental
 
 > É concedida quando o processo já está em curso. 
 
